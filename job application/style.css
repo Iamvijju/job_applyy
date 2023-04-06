@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-color: rgb(174, 174, 199);
+    border: 1px solid black;
+    height: 100vh;
+}
+
+.container{
+    width:700px;
+    height:600px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top:60px;
+    border-radius: 20px;
+    box-shadow: 5px 4px 5px black;
+}
+
+.topside h1{
+    margin-left:15px;
+    font-size:25px; 
+    text-shadow: 2px 3px 5px red;
+}
+
+.first{
+    margin-top:30px;
+    margin-left: 20px;
+    float: left;
+}
+
+.first p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.first input{
+    width: 250px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+    
+}
+
+.second{
+    margin-top:30px;
+    margin-right:50px;
+    float: right;
+}
+
+.second p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.second input{
+    width: 250px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+}   
+
+.third{
+    margin-top:30px;
+    margin-left: 20px;
+    float: left;
+}
+
+.third p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.third input{
+    width: 250px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+    
+}
+
+.fourth{
+    margin-top:30px;
+    margin-right:50px;
+    float: right;
+    margin-bottom: 15px;
+}
+
+.fourth p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fourth select{
+    width: 250px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+}   
+
+.fifth{
+    margin-top:30px;
+    margin-left: 20px;
+    clear: both;
+}
+
+.fifth p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fifth textarea{
+    width:90%;
+    height:20%;
+    border-width:3px;
+    border-radius:10px;   
+}
+
+.sixth{
+    margin-top:30px;
+    margin-left: 20px;
+    float: left;
+}
+
+.sixth p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sixth input{
+    width: 250px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+    
+}
+
+.seventh{
+    margin-top:30px;
+    margin-right:50px;
+    float: right;
+    
+}
+
+.seventh p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.seventh input{
+    width: 250px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+}   
+
+.eighth{
+    margin-top:30px;
+    margin-left: 20px;
+    float: left;
+}
+
+.eighth p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.eighth input{
+    width: 200px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+    margin-bottom: 30px;
+}
+
+.nineth{
+    margin-top:30px;
+    margin-right:50px;
+    float:right;
+
+}
+
+.nineth p{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;   
+}
+
+.nineth input{
+    width: 250px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+}   
+
+footer{
+    margin-top: 20px;
+    margin-left: 20px;
+    float: right;
+    margin-right: 40px;
+    
+}
+
+footer input{
+    width: 130px;
+    height:30px;
+    border-width:3px;
+    border-radius:10px;
+    background-color: red;
+    cursor:grab ;
+}
+
+footer input:hover{
+   background-color:yellow;
+}
+
+
+
+
